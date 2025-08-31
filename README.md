@@ -14,8 +14,8 @@
 <!-- Dynamic Header with Particles -->
 <img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Wizard%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50&descSize=25"/>
 
-<!-- Matrix Rain Effect - Fixed URL -->
-<img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Matrix Rain" width="100%"/>
+<!-- Matrix Rain Effect - Generated Locally -->
+<img src="./github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%"/>
 
 </div>
 
@@ -64,13 +64,13 @@ window.addEventListener('load', function() {
 <!-- Matrix Rain Effect -->
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Effect" width="100%"/>
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Snake Backup" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -90,13 +90,13 @@ window.addEventListener('load', function() {
 
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Followers" width="100%"/>
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Snake Backup" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%"/>
 </div>
 
 ---
@@ -301,7 +301,7 @@ window.addEventListener('load', function() {
 </h2>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="github contribution grid snake animation" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%"/>
 </div>
 
 <!-- 3D Contribution Chart -->
@@ -409,7 +409,7 @@ window.addEventListener('load', function() {
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake animation" />
+  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---

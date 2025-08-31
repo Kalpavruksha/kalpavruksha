@@ -1,5 +1,8 @@
 name: Update Profile Stats
 
+# This workflow updates GitHub activity stats in README.md
+# It uses the github-activity-readme action to inject recent activity
+
 on:
   schedule:
     - cron: "0 0 * * *"  # Daily at midnight
@@ -23,8 +26,10 @@ jobs:
           COMMIT_MSG: 'Update GitHub Stats'
           MAX_LINES: 4
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update GitHub Stats" || exit 0
+          git push

@@ -1,5 +1,8 @@
 name: Update README
 
+# This workflow updates the README.md with a timestamp
+# It runs daily to keep the "Last updated" information current
+
 on:
   schedule:
     - cron: "0 2 * * *"  # Daily at 2 AM
@@ -45,17 +48,11 @@ jobs:
             
             // Write updated README
             fs.writeFileSync(readmePath, readmeContent);
-            
-            // Commit and push changes
-            const { execSync } = require('child_process');
-            execSync('git config --local user.email "action@github.com"');
-            execSync('git config --local user.name "GitHub Action"');
-            execSync('git add README.md');
-            execSync('git commit -m "Update README timestamp"');
-            execSync('git push');
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README timestamp" || exit 0
+          git push
