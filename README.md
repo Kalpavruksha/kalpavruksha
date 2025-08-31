@@ -20,8 +20,6 @@
 <!-- Fallback Matrix Rain if local file doesn't exist -->
 <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback" width="100%" style="display: none;"/>
 
-</div>
-
 <!-- Holographic Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
@@ -66,19 +64,11 @@ window.addEventListener('load', function() {
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <!-- Matrix Rain using Snake with Matrix Theme -->
+  <!-- Primary Matrix Rain -->
   <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
-  <!-- Alternative Matrix Effect -->
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Backup Matrix Effect -->
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Fallback Matrix Effects if local files don't exist -->
+  <!-- Fallback Matrix Rain if primary fails -->
   <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Fallback 1" width="100%" style="display: none;"/>
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback 2" width="100%" style="display: none;"/>
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback 3" width="100%" style="display: none;"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -97,19 +87,11 @@ window.addEventListener('load', function() {
 </h2>
 
 <div align="center">
-  <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <!-- Primary Matrix Rain for Followers -->
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
-  <!-- Alternative Matrix Effect -->
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Backup Matrix Effect -->
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Fallback Matrix Effects if local files don't exist -->
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 2" width="100%" style="display: none;"/>
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 3" width="100%" style="display: none;"/>
+  <!-- Fallback Matrix Rain if primary fails -->
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
 </div>
 
 ---
