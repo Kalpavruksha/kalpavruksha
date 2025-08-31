@@ -32,9 +32,32 @@
   <img src="https://img.shields.io/badge/🏆+Years+Coding-5+-brightgreen?style=for-the-badge" alt="Years Coding"/>
 </div>
 
+<!-- Matrix Rain Effect -->
+<div align="center">
+  <!-- Primary Matrix Rain -->
+  <img src="https://readme-matrix.vercel.app/api/matrix?username=Kalpavruksha&theme=matrix&font=monospace&size=12&color=00ff00&bg=000000" alt="Matrix Rain Effect" width="100%"/>
+  
+  <!-- Backup Matrix Effect using Snake -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Snake Backup" width="100%"/>
+</div>
+
 <!-- AI-Powered Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20understand%20both%20code%20and%20creativity&author=Kalpavruksha"/>
+</div>
+
+<!-- Matrix Rain Followers -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00ff00&center=true&vCenter=true&lines=🌊+MATRIX+RAIN+FOLLOWERS+🌊" alt="Matrix Rain Title"/>
+</h2>
+
+<div align="center">
+  <img src="https://readme-matrix.vercel.app/api/matrix?username=Kalpavruksha&theme=matrix&font=monospace&size=14&color=00ff00&bg=000000&show_followers=true" alt="Matrix Rain Followers" width="100%"/>
+</div>
+
+<!-- Alternative Matrix Rain (Backup) -->
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Snake" width="100%"/>
 </div>
 
 ---
@@ -282,7 +305,11 @@
 </h2>
 
 <div align="center">
+  <!-- WakaTime Stats will be automatically updated by GitHub Actions -->
   <img src="https://wakatime.com/share/@Kalpavruksha/7c8c8c8c-8c8c-8c8c-8c8c-8c8c8c8c8c8c.svg" alt="WakaTime Stats"/>
+  
+  <!-- Alternative: GitHub Readme Stats with WakaTime -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpavruksha&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
 </div>
 
 ---
