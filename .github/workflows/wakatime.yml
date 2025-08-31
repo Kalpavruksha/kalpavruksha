@@ -1,0 +1,48 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # Daily at 1 AM
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          USERNAME: Kalpavruksha
+          SHOW_LINE_OF_CODE: 'true'
+          SHOW_PROFILE_VIEWS: 'true'
+          SHOW_SHORT_INFO: 'true'
+          SHOW_OS: 'true'
+          SHOW_PROJECTS: 'true'
+          SHOW_EDITORS: 'true'
+          SHOW_LANGUAGE: 'true'
+          SHOW_TIMEZONE: 'true'
+          SHOW_LOC_CHART: 'true'
+          SHOW_PROFILE_VIEWS_CHART: 'true'
+          SHOW_WEEKLY_OS: 'true'
+          SHOW_PROJECTS_CHART: 'true'
+          SHOW_EDITORS_CHART: 'true'
+          SHOW_LANGUAGE_CHART: 'true'
+          SHOW_DAILY_OS: 'true'
+          SHOW_LANGUAGE_PER_REPO: 'true'
+          SHOW_LOC_PER_REPO: 'true'
+          SHOW_TIMEZONE_CHART: 'true'
+          SHOW_WEEKLY_OS_CHART: 'true'
+          SHOW_DAILY_OS_CHART: 'true'
+          SHOW_LANGUAGE_PER_REPO_CHART: 'true'
+          SHOW_LOC_PER_REPO_CHART: 'true'
+          SHOW_TIMEZONE_PER_REPO: 'true'
+          SHOW_TIMEZONE_PER_REPO_CHART: 'true'
+          SHOW_PROFILE_VIEWS_PER_REPO: 'true'
+          SHOW_PROFILE_VIEWS_PER_REPO_CHART: 'true'
