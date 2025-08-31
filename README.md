@@ -15,7 +15,10 @@
 <img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Wizard%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50&descSize=25"/>
 
 <!-- Matrix Rain Effect - Generated Locally -->
-<img src="./github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%"/>
+<img src="./github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+
+<!-- Fallback Matrix Rain if local file doesn't exist -->
+<img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Fallback" width="100%" style="display: none;"/>
 
 </div>
 
@@ -58,19 +61,24 @@ window.addEventListener('load', function() {
   <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Kalpavruksha?label=🚀+Followers&style=for-the-badge&color=ff6b6b" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Kalpavruksha?affiliations=OWNER&label=⭐+Total+Stars&style=for-the-badge&color=ffd700" alt="Stars"/>
-  <img src="https://img.shields.io/badge/🏆+Years+Coding-5+-brightgreen?style=for-the-badge" alt="Years Coding"/>
+  <img src="https://img.shields.io/badge/🎓+Student+Developer-blue?style=for-the-badge" alt="Student Developer"/>
 </div>
 
 <!-- Matrix Rain Effect -->
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%"/>
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  
+  <!-- Fallback Matrix Effects if local files don't exist -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Fallback 1" width="100%" style="display: none;"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Rain Fallback 2" width="100%" style="display: none;"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Rain Fallback 3" width="100%" style="display: none;"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -90,13 +98,18 @@ window.addEventListener('load', function() {
 
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%"/>
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  
+  <!-- Fallback Matrix Effects if local files don't exist -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Rain Followers Fallback 2" width="100%" style="display: none;"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Rain Followers Fallback 3" width="100%" style="display: none;"/>
 </div>
 
 ---
@@ -105,6 +118,7 @@ window.addEventListener('load', function() {
 
 ### 👨‍💻 About Me
 
+- 🎓 I'm a **Computer Science Student** passionate about technology
 - 🔭 I'm currently working on **[Healthcare AI Based E-commerce Platform]**
 - 🌱 I'm currently learning **[React Native, GraphQL, Advanced ML]**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Apps**
@@ -301,7 +315,10 @@ window.addEventListener('load', function() {
 </h2>
 
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%"/>
+  <img src="./github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  
+  <!-- Fallback Snake if local file doesn't exist -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" width="100%" style="display: none;"/>
 </div>
 
 <!-- 3D Contribution Chart -->
@@ -322,10 +339,11 @@ window.addEventListener('load', function() {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4" />
   </a>
   
-  <!-- Project 2: Alternative Repo -->
-  <a href="https://github.com/Kalpavruksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=Kalpavruksha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4" />
-  </a>
+  <!-- Project 2: Student Portfolio Badge -->
+  <img src="https://img.shields.io/badge/🎓+Student+Portfolio-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Student Portfolio"/>
+  
+  <!-- Project 3: Learning Projects Badge -->
+  <img src="https://img.shields.io/badge/📚+Learning+Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Learning Projects"/>
 </div>
 
 ---
@@ -391,7 +409,14 @@ window.addEventListener('load', function() {
 </h2>
 
 <div align="center">
+  <!-- Primary World Map -->
   <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=dark" alt="World Map"/>
+  
+  <!-- Alternative World Map -->
+  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=light" alt="World Map Light"/>
+  
+  <!-- Backup: Simple Location Badge -->
+  <img src="https://img.shields.io/badge/🌍+Location-India-blue?style=for-the-badge" alt="Location"/>
 </div>
 
 ---
@@ -409,12 +434,15 @@ window.addEventListener('load', function() {
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  
+  <!-- Fallback Snake if local file doesn't exist -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" style="display: none;"/>
 </div>
 
 ---
 
-<!-- Featured Projects - Fixed with working repos -->
+<!-- Featured Projects - Student Portfolio -->
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
@@ -423,10 +451,11 @@ window.addEventListener('load', function() {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=algolia" />
   </a>
   
-  <!-- Project 2: Alternative Repo -->
-  <a href="https://github.com/Kalpavruksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=Kalpavruksha&theme=algolia" />
-  </a>
+  <!-- Project 2: Student Portfolio -->
+  <img src="https://img.shields.io/badge/🎓+Student+Portfolio-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Student Portfolio"/>
+  
+  <!-- Project 3: Learning Projects -->
+  <img src="https://img.shields.io/badge/📚+Learning+Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Learning Projects"/>
 </div>
 
 ---
@@ -475,10 +504,18 @@ window.addEventListener('load', function() {
 
 ---
 
-<!-- Visitor Journey - Fixed counter -->
+<!-- Visitor Journey - Multiple Counter Options -->
 <div align="center">
   <h3>🌍 Visitor Journey</h3>
+  
+  <!-- Primary Counter -->
   <img src="https://profile-counter.glitch.me/Kalpavruksha/count.svg" alt="Visitor Count" />
+  
+  <!-- Alternative Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Backup Counter -->
+  <img src="https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge" alt="Visitors" />
 </div>
 
 <!-- Animated Footer -->
