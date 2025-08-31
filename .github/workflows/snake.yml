@@ -17,17 +17,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@master
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kalpavruksha
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add dist/
           git commit -m "Update contribution snake" || exit 0
           git push

@@ -15,10 +15,10 @@
 <img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Wizard%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50&descSize=25"/>
 
 <!-- Matrix Rain Effect - Generated Locally -->
-<img src="./github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+<img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
 
 <!-- Fallback Matrix Rain if local file doesn't exist -->
-<img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Fallback" width="100%" style="display: none;"/>
+<img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback" width="100%" style="display: none;"/>
 
 </div>
 
@@ -43,7 +43,7 @@ window.addEventListener('load', function() {
     let allImagesLoaded = true;
     
     images.forEach(img => {
-      if (img.naturalWidth === 0) {
+      if (!img.complete || img.naturalWidth === 0) {
         allImagesLoaded = false;
       }
     });
@@ -67,18 +67,18 @@ window.addEventListener('load', function() {
 <!-- Matrix Rain Effect -->
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Fallback Matrix Effects if local files don't exist -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Fallback 1" width="100%" style="display: none;"/>
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Rain Fallback 2" width="100%" style="display: none;"/>
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Rain Fallback 3" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Fallback 1" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback 2" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback 3" width="100%" style="display: none;"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -98,18 +98,18 @@ window.addEventListener('load', function() {
 
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Alternative" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup Matrix Effect -->
-  <img src="./github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Snake Backup" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Fallback Matrix Effects if local files don't exist -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Rain Followers Fallback 2" width="100%" style="display: none;"/>
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Rain Followers Fallback 3" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 2" width="100%" style="display: none;"/>
+  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 3" width="100%" style="display: none;"/>
 </div>
 
 ---
@@ -315,7 +315,7 @@ window.addEventListener('load', function() {
 </h2>
 
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Fallback Snake if local file doesn't exist -->
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" width="100%" style="display: none;"/>
@@ -370,13 +370,15 @@ window.addEventListener('load', function() {
 
 <div align="center">
   <!-- WakaTime Stats will be automatically updated by GitHub Actions -->
-  <img src="https://wakatime.com/share/@Kalpavruksha/7c8c8c8c-8c8c-8c8c-8c8c-8c8c8c8c8c8c.svg" alt="WakaTime Stats"/>
-  
   <!-- Alternative: GitHub Readme Stats with WakaTime -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpavruksha&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
   
   <!-- Backup: Simple WakaTime Display -->
   <img src="https://wakatime.com/share/@Kalpavruksha/7c8c8c8c-8c8c-8c8c-8c8c-8c8c8c8c8c8c.svg" alt="WakaTime Backup"/>
+  
+  <!-- Fallback: WakaTime Placeholder -->
+  <img src="https://wakatime.com/share/@Kalpavruksha/latest.svg" alt="WakaTime Fallback" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <div style="display: none;">WakaTime stats will appear here when configured properly</div>
 </div>
 
 ---
@@ -410,13 +412,16 @@ window.addEventListener('load', function() {
 
 <div align="center">
   <!-- Primary World Map -->
-  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=dark" alt="World Map"/>
+  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=dark" alt="World Map" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative World Map -->
-  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=light" alt="World Map Light"/>
+  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=light" alt="World Map Light" onerror="this.style.display='none'; this.previousElementSibling.style.display='block'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup: Simple Location Badge -->
-  <img src="https://img.shields.io/badge/🌍+Location-India-blue?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/🌍+Location-India-blue?style=for-the-badge" alt="Location" style="display: none;"/>
+  
+  <!-- Fallback Text -->
+  <div style="display: none; font-size: 1.5em; color: #E74C3C;">🌍 Connecting with developers worldwide! 🌍</div>
 </div>
 
 ---
@@ -434,7 +439,7 @@ window.addEventListener('load', function() {
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Fallback Snake if local file doesn't exist -->
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" style="display: none;"/>
@@ -509,13 +514,16 @@ window.addEventListener('load', function() {
   <h3>🌍 Visitor Journey</h3>
   
   <!-- Primary Counter -->
-  <img src="https://profile-counter.glitch.me/Kalpavruksha/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Kalpavruksha/count.svg" alt="Visitor Count" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Alternative Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" onerror="this.style.display='none'; this.previousElementSibling.style.display='block'; this.nextElementSibling.style.display='block';"/>
   
   <!-- Backup Counter -->
-  <img src="https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge" alt="Visitors" style="display: none;"/>
+  
+  <!-- Fallback Text -->
+  <div style="display: none; font-size: 1.2em; color: #58A6FF;">Thank you for visiting my profile! 🙏</div>
 </div>
 
 <!-- Animated Footer -->
