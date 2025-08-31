@@ -277,9 +277,12 @@
 </h2>
 
 <div align="center">
+  <!-- Project 1: Main Profile Repo -->
   <a href="https://github.com/Kalpavruksha/kalpavruksha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4" />
   </a>
+  
+  <!-- Project 2: Alternative Repo -->
   <a href="https://github.com/Kalpavruksha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=Kalpavruksha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4" />
   </a>
@@ -293,7 +296,11 @@
 </h2>
 
 <div align="center">
+  <!-- Spotify Profile with working integration -->
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=kalpavruksha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile"/>
+  
+  <!-- Alternative Spotify Display -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kalpavruksha&theme=dark&show_offline=false&background_color=121212&bar_color=53b14f" alt="Spotify Alternative"/>
 </div>
 
 ---
@@ -309,6 +316,9 @@
   
   <!-- Alternative: GitHub Readme Stats with WakaTime -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpavruksha&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
+  
+  <!-- Backup: Simple WakaTime Display -->
+  <img src="https://wakatime.com/share/@Kalpavruksha/7c8c8c8c-8c8c-8c8c-8c8c-8c8c8c8c8c8c.svg" alt="WakaTime Backup"/>
 </div>
 
 ---
@@ -368,9 +378,12 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
+  <!-- Project 1: Main Profile Repo -->
   <a href="https://github.com/Kalpavruksha/kalpavruksha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=algolia" />
   </a>
+  
+  <!-- Project 2: Alternative Repo -->
   <a href="https://github.com/Kalpavruksha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=Kalpavruksha&theme=algolia" />
   </a>
