@@ -34,11 +34,11 @@
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <!-- Primary Matrix Rain -->
-  <img src="https://readme-matrix.vercel.app/api/matrix?username=Kalpavruksha&theme=matrix&font=monospace&size=12&color=00ff00&bg=000000" alt="Matrix Rain Effect" width="100%"/>
+  <!-- Matrix Rain using Snake with Matrix Theme -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Effect" width="100%"/>
   
-  <!-- Backup Matrix Effect using Snake -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Snake Backup" width="100%"/>
+  <!-- Alternative Matrix Effect -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -52,12 +52,11 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-matrix.vercel.app/api/matrix?username=Kalpavruksha&theme=matrix&font=monospace&size=14&color=00ff00&bg=000000&show_followers=true" alt="Matrix Rain Followers" width="100%"/>
-</div>
-
-<!-- Alternative Matrix Rain (Backup) -->
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Snake" width="100%"/>
+  <!-- Matrix Rain using Snake with Matrix Theme -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Followers" width="100%"/>
+  
+  <!-- Alternative Matrix Effect -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
 </div>
 
 ---
@@ -321,6 +320,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+
+<!-- GitHub Activity Section -->
+<h2 align="center">🔥 Recent GitHub Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpavruksha&theme=algolia" alt="GitHub Streak" />
