@@ -24,6 +24,35 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
 </h1>
 
+<!-- Fallback Title if Animation Fails -->
+<h1 align="center" style="display: none;" id="fallback-title">
+  🌟 Welcome to Kalpavruksha's Digital Universe 🌟
+</h1>
+<h2 align="center" style="display: none;" id="fallback-subtitle">
+  🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
+</h2>
+
+<script>
+// Show fallback text if images fail to load
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    const images = document.querySelectorAll('img[alt*="Holographic Typing Animation"]');
+    let allImagesLoaded = true;
+    
+    images.forEach(img => {
+      if (img.naturalWidth === 0) {
+        allImagesLoaded = false;
+      }
+    });
+    
+    if (!allImagesLoaded) {
+      document.getElementById('fallback-title').style.display = 'block';
+      document.getElementById('fallback-subtitle').style.display = 'block';
+    }
+  }, 3000);
+});
+</script>
+
 <!-- Real-time Stats Bar -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
@@ -39,6 +68,9 @@
   
   <!-- Alternative Matrix Effect -->
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
+  
+  <!-- Backup Matrix Effect -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Snake Backup" width="100%"/>
 </div>
 
 <!-- AI-Powered Quote -->
@@ -51,12 +83,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00ff00&center=true&vCenter=true&lines=🌊+MATRIX+RAIN+FOLLOWERS+🌊" alt="Matrix Rain Title"/>
 </h2>
 
+<!-- Fallback Title if Animation Fails -->
+<h2 align="center">
+  🌊 MATRIX RAIN FOLLOWERS 🌊
+</h2>
+
 <div align="center">
   <!-- Matrix Rain using Snake with Matrix Theme -->
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake-dark.svg?username=Kalpavruksha&theme=matrix&color=00ff00" alt="Matrix Rain Followers" width="100%"/>
   
   <!-- Alternative Matrix Effect -->
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark&color=00ff00" alt="Matrix Snake Alternative" width="100%"/>
+  
+  <!-- Backup Matrix Effect -->
+  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha&theme=dark" alt="Matrix Snake Backup" width="100%"/>
 </div>
 
 ---
