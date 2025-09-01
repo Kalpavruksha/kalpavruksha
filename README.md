@@ -25,18 +25,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
 </h1>
 
-<!-- Fallback Title if Animation Fails -->
-<h1 align="center" style="display: none;" id="fallback-title">
-  🌟 Welcome to Kalpavruksha's Digital Universe 🌟
-</h1>
-<h2 align="center" style="display: none;" id="fallback-subtitle">
-  🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
-</h2>
 
 <!-- Dynamic Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=58A6FF&center=true&vCenter=true&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer;🔬+Research+%26+Innovation+Enthusiast" alt="Typing Animation"/>
-</h1>
+
 
 <!-- Fallback Static Header -->
 <h2 align="center">
