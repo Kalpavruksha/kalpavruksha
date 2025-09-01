@@ -477,26 +477,26 @@
 
 ---
 
-<!-- Visitor Journey - Multiple Counter Options -->
+<!-- Visitor Journey - Safe Counters -->
 <div align="center">
   <h3>🌍 Visitor Journey</h3>
-  
+
   <!-- Primary Counter -->
-  <img src="https://profile-counter.glitch.me/Kalpavruksha/count.svg" alt="Visitor Count" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
+  ![Visitor Count](https://profile-counter.glitch.me/Kalpavruksha/count.svg)
+
   <!-- Alternative Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" onerror="this.style.display='none'; this.previousElementSibling.style.display='block'; this.nextElementSibling.style.display='block';"/>
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge)
+
   <!-- Backup Counter -->
-  <img src="https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge" alt="Visitors" style="display: none;"/>
-  
+  ![Visitors](https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge)
+
   <!-- Fallback Text -->
-  <div style="display: none; font-size: 1.2em; color: #58A6FF;">Thank you for visiting my profile! 🙏</div>
+  <sub>Thank you for visiting my profile! 🙏</sub>
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65)
 </div>
 
 <!-- Easter Egg -->
@@ -525,10 +525,13 @@
 ---
 
 ## 🕒 My WakaTime Stats
+<!-- WakaTime may not display if the user has private stats -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=beshu&layout=compact&theme=radical)
 
 ---
 
+## 🌌 Matrix Rain
+<!-- Use hosted image; fallback if it fails -->
 ![Matrix Rain](https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg)
 
 ---
@@ -538,3 +541,4 @@
 - 🐙 GitHub: [Kalpavruksha](https://github.com/Kalpavruksha)  
 - 🖇 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)  
 - ✨ X: [Your X](https://x.com/@)
+
