@@ -33,26 +33,24 @@
   🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
 </h2>
 
-<script>
-// Show fallback text if images fail to load
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    const images = document.querySelectorAll('img[alt*="Holographic Typing Animation"]');
-    let allImagesLoaded = true;
-    
-    images.forEach(img => {
-      if (!img.complete || img.naturalWidth === 0) {
-        allImagesLoaded = false;
-      }
-    });
-    
-    if (!allImagesLoaded) {
-      document.getElementById('fallback-title').style.display = 'block';
-      document.getElementById('fallback-subtitle').style.display = 'block';
-    }
-  }, 3000);
-});
-</script>
+<!-- Dynamic Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=58A6FF&center=true&vCenter=true&lines=🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer;🔬+Research+%26+Innovation+Enthusiast" alt="Typing Animation"/>
+</h1>
+
+<!-- Fallback Static Header -->
+<h2 align="center">
+  🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
+</h2>
+
+<!-- Profile Stats Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Kalpavruksha?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Kalpavruksha?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge" alt="Student Developer"/>
+</div>
+
 
 <!-- Real-time Stats Bar -->
 <div align="center">
@@ -536,3 +534,20 @@ window.addEventListener('load', function() {
   <img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" />
 </div>
 
+---
+
+## 🕒 My WakaTime Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=beshu&layout=compact&theme=radical)
+
+---
+
+## 💻 Matrix Rain
+![Matrix Rain](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## 📫 Connect with Me
+- 🌐 Website: [wonderful.dev](https://wonderful.dev/)  
+- 🐙 GitHub: [Kalpavruksha](https://github.com/Kalpavruksha)  
+- 🖇 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)  
+- ✨ X: [Your X](https://x.com/@)
