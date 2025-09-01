@@ -288,9 +288,6 @@
 <div align="center">
   <img src="./dist/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
-  <!-- Fallback Snake if local file doesn't exist -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" width="100%" style="display: none;"/>
-</div>
 
 <!-- 3D Contribution Chart -->
 <div align="center">
@@ -532,8 +529,7 @@
 
 ---
 
-## 💻 Matrix Rain
-![Matrix Rain](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Matrix Rain](https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg)
 
 ---
 
