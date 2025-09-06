@@ -1,6 +1,8 @@
 <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Kalpavruksha's%20Profile&height=300&section=header&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=50&descAlign=50">
 </div>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kalpavruksha;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!&center=true&size=30&color=58a6ff">
 </h1>
