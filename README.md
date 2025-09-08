@@ -318,20 +318,6 @@
 
 ---
 
-<!-- Spotify & Music - Fixed integration -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=1DB954&center=true&vCenter=true&lines=🎵+CODING+PLAYLIST+🎵" alt="Spotify Title"/>
-</h2>
-
-<div align="center">
-  <!-- Spotify Profile with working integration -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kalpavruksha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile"/>
-  
-  <!-- Alternative Spotify Display -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=kalpavruksha&theme=dark&show_offline=false&background_color=121212&bar_color=53b14f" alt="Spotify Alternative"/>
-</div>
-
----
 
 <!-- WakaTime Coding Activity - Fixed integration -->
 <h2 align="center">
@@ -405,35 +391,8 @@
 
 ---
 
-<!-- Contribution Snake - Fixed URL -->
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Fallback Snake if local file doesn't exist -->
-  <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=Kalpavruksha" alt="Snake Fallback" style="display: none;"/>
-</div>
 
----
-
-<!-- Featured Projects - Student Portfolio -->
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-  <!-- Project 1: Main Profile Repo -->
-  <a href="https://github.com/Kalpavruksha/kalpavruksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=algolia" />
-  </a>
-  
-  <!-- Project 2: Student Portfolio -->
-  <img src="https://img.shields.io/badge/🎓+Student+Portfolio-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Student Portfolio"/>
-  
-  <!-- Project 3: Learning Projects -->
-  <img src="https://img.shields.io/badge/📚+Learning+Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Learning Projects"/>
-</div>
-
----
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
@@ -454,9 +413,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/kalpavruksha-g-4a3151267/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000)](https://twitter.com/kalpavruksha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:kalpavruksha.g.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://kalpavruksha.dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000)](https://discordapp.com/users/kalpavruksha)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000)](https://t.me/kalpavruksha)
+
 
 </div>
 
@@ -563,8 +520,6 @@
 ### Contribution Heatmap
 ![Contribution Graph](https://ghchart.rshah.org/Kalpavruksha)
 
-### Snake Animation (Optional)
-![Snake Animation](https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg)
 
 ---
 
