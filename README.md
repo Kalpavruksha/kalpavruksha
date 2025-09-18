@@ -326,25 +326,12 @@
 ---
 
 
-
-
 ## 📫 Connect with Me
 - 🌐 Website: [wonderful.dev](https://wonderful.dev/)  
 - 🐙 GitHub: [Kalpavruksha](https://github.com/Kalpavruksha)  
 - 🖇 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)  
 - ✨ X: [Your X](https://x.com/@)
 
-
-## 🕒 My Coding Stats
-
-### GitHub Stats
-![Kalpavruksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=radical)
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kalpavruksha&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&theme=radical)
 
 
 
