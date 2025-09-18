@@ -362,7 +362,6 @@
 - ✨ X: [Your X](https://x.com/@)  
 
 ---
-
 ## 🎨 Footer Animation
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65)
 
