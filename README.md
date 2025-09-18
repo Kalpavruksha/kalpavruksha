@@ -2,8 +2,6 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Kalpavruksha's%20Profile&height=300&section=header&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=50&descAlign=50">
 </div>
 
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kalpavruksha;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!&center=true&size=30&color=58a6ff">
 </h1>
@@ -13,9 +11,7 @@
   <img src="https://img.shields.io/github/followers/Kalpavruksha?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
-<!-- Dynamic Header with Particles -->
-<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20
-<!-- Holographic Title -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
