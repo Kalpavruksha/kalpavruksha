@@ -258,45 +258,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpavruksha&theme=algolia" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpavruksha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<!-- Interactive Globe - Fixed URL -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=E74C3C&center=true&vCenter=true&lines=🌍+GLOBAL+CONNECTIONS+🌍" alt="Global Title"/>
-</h2>
-
-<div align="center">
-  <!-- Primary World Map -->
-  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=dark" alt="World Map" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Alternative World Map -->
-  <img src="https://github-readme-world-map.vercel.app/api?username=Kalpavruksha&theme=light" alt="World Map Light" onerror="this.style.display='none'; this.previousElementSibling.style.display='block'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Backup: Simple Location Badge -->
-  <img src="https://img.shields.io/badge/🌍+Location-India-blue?style=for-the-badge" alt="Location" style="display: none;"/>
-  
-  <!-- Fallback Text -->
-  <div style="display: none; font-size: 1.5em; color: #E74C3C;">🌍 Connecting with developers worldwide! 🌍</div>
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalpavruksha&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
-</div>
-
----
-
-
 
 
 <!-- Contribution Graph -->
@@ -334,21 +295,7 @@
 </div>
 ---
 <!-- Visitor Journey - Safe Counters -->
-<div align="center">
-  <h3>🌍 Visitor Journey</h3>
 
-  <!-- Primary Counter -->
-  ![Visitor Count](https://profile-counter.glitch.me/Kalpavruksha/count.svg)
-
-  <!-- Alternative Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge)
-
-  <!-- Backup Counter -->
-  ![Visitors](https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge)
-
-  <!-- Fallback Text -->
-  <sub>Thank you for visiting my profile! 🙏</sub>
-</div>
 
 <!-- Animated Footer -->
 <div align="center">
@@ -378,17 +325,8 @@
 
 ---
 
-## 🕒 My WakaTime Stats
-<!-- WakaTime may not display if the user has private stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=beshu&layout=compact&theme=radical)
 
----
 
-## 🌌 Matrix Rain
-<!-- Use hosted image; fallback if it fails -->
-![Matrix Rain](https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Connect with Me
 - 🌐 Website: [wonderful.dev](https://wonderful.dev/)  
@@ -493,4 +431,19 @@
 
 <div align="center">
   <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Build%20the%20Future%20Together%20🚀&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+</div>
+<div align="center">
+  <h3>🌍 Visitor Journey</h3>
+
+  <!-- Primary Counter -->
+  ![Visitor Count](https://profile-counter.glitch.me/Kalpavruksha/count.svg)
+
+  <!-- Alternative Counter -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=blue&style=for-the-badge)
+
+  <!-- Backup Counter -->
+  ![Visitors](https://img.shields.io/badge/👥+Visitors-100+-green?style=for-the-badge)
+
+  <!-- Fallback Text -->
+  <sub>Thank you for visiting my profile! 🙏</sub>
 </div>
