@@ -36,12 +36,6 @@
   <img src="https://img.shields.io/badge/🎓+Student+Developer-blue?style=for-the-badge" alt="Student Developer"/>
 </div>
 
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <!-- Primary Matrix Rain -->
-  <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-
 <!-- AI-Powered Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20understand%20both%20code%20and%20creativity&author=Kalpavruksha"/>
@@ -260,30 +254,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF6B6B&center=true&vCenter=true&lines=🌟+FEATURED+PROJECTS+🌟" alt="Projects Title"/>
 </h2>
 
-<div align="center">
-  <!-- Project 1: Main Profile Repo -->
-  <a href="https://github.com/Kalpavruksha/kalpavruksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpavruksha&repo=kalpavruksha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4" />
-  </a>
-  
-  <!-- Project 2: Student Portfolio Badge -->
-  <img src="https://img.shields.io/badge/🎓+Student+Portfolio-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Student Portfolio"/>
-  
-  <!-- Project 3: Learning Projects Badge -->
-  <img src="https://img.shields.io/badge/📚+Learning+Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Learning Projects"/>
-</div>
-
----
 
 
-<!-- WakaTime Coding Activity - Fixed integration -->
-<!-- GitHub Analytics -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&langs_count=8&theme=algolia"/>
-</div>
 
 
 <div align="center">
