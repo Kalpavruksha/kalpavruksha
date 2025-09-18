@@ -346,12 +346,9 @@
 </h2>
 
 <div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/kalpavruksha-g-4a3151267/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000)](https://twitter.com/kalpavruksha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:kalpavruksha.g.dev@gmail.com)
-
-
 </div>
 
 <!-- Support Section - Fixed links -->
@@ -360,7 +357,6 @@
 </h2>
 
 <div align="center">
-
   <a href="https://ko-fi.com/kalpavruksha">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
@@ -368,9 +364,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </div>
-
 ---
-
 <!-- Visitor Journey - Safe Counters -->
 <div align="center">
   <h3>🌍 Visitor Journey</h3>
@@ -405,8 +399,6 @@
 <!-- Last Updated: Last updated: 2025-09-18T02:55:57.355Z
 <!-- Invisible Analytics -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpavruksha&theme=github&hide_border=true&bg_color=0D1117" width="0" height="0" style="visibility:hidden;"/>
-
----
 
 <div align="center">
   <i>⭐ From <a href="https://github.com/Kalpavruksha">Kalpavruksha</a> with ❤️ and lots of ☕</i>
@@ -448,15 +440,8 @@
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&theme=radical)
 
----
-
-## 🌌 Contributions & Matrix
-
-### Contribution Heatmap
-![Contribution Graph](https://ghchart.rshah.org/Kalpavruksha)
 
 
----
 
 ## 🌍 Visitor Journey
 
@@ -478,7 +463,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 Website: [wonderful.dev](https://wonderful.dev)  
+- 🌐 Website: [wonderful.dev](https://wonderful.dev)
 - 🐙 GitHub: [Kalpavruksha](https://github.com/Kalpavruksha)  
 - 🖇 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)  
 - ✨ X: [Your X](https://x.com/@)  
@@ -533,19 +518,6 @@
 
 ### 😄 Developer Humor
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%23FF6B6B&aColor=%234ECDC4" alt="Jokes Card" />
-
-</div>
-
----
-
-<!-- Dynamic Visitor Badge -->
-<div align="center">
-
-### 🌍 Visitor Journey
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kalpavruksha.Kalpavruksha&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
-**Thank you for visiting my profile!** 🙏  
-*Feel free to explore my repositories and don't hesitate to reach out!*
 
 </div>
 
