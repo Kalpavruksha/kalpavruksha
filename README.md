@@ -14,15 +14,9 @@
 </div>
 
 <!-- Dynamic Header with Particles -->
-<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Wizard%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50&descSize=25"/>
-
-<!-- Matrix Rain Effect - Generated Locally -->
-<img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Rain" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-
-<!-- Fallback Matrix Rain if local file doesn't exist -->
-<img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Fallback" width="100%" style="display: none;"/>
-
+<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=400&section=header&text=🚀%20KALPAVRUKSHA%20🚀&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20
 <!-- Holographic Title -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
 </h1>
@@ -36,13 +30,6 @@
   🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
 </h2>
 
-<!-- Profile Stats Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile+Views&color=brightgreen&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Kalpavruksha?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Kalpavruksha?label=Stars&style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge" alt="Student Developer"/>
-</div>
 
 
 <!-- Real-time Stats Bar -->
@@ -58,9 +45,6 @@
   <!-- Primary Matrix Rain -->
   <img src="./dist/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Effect" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
   
-  <!-- Fallback Matrix Rain if primary fails -->
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain Fallback 1" width="100%" style="display: none;"/>
-</div>
 
 <!-- AI-Powered Quote -->
 <div align="center">
@@ -73,17 +57,7 @@
 </h2>
 
 <!-- Fallback Title if Animation Fails -->
-<h2 align="center">
-  🌊 MATRIX RAIN FOLLOWERS 🌊
-</h2>
 
-<div align="center">
-  <!-- Primary Matrix Rain for Followers -->
-  <img src="./dist/github-contribution-grid-snake.svg" alt="Matrix Rain Followers" width="100%" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  
-  <!-- Fallback Matrix Rain if primary fails -->
-  <img src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg" alt="Matrix Rain Followers Fallback 1" width="100%" style="display: none;"/>
-</div>
 
 ---
 
@@ -233,19 +207,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
-
-<!-- GitHub Stats Dashboard -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=4ECDC4&center=true&vCenter=true&lines=📊+GITHUB+ANALYTICS+DASHBOARD+📊" alt="Analytics Title"/>
-</h2>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=4ECDC4&border_radius=15"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&border_radius=15&langs_count=12"/>
-</div>
-
 <!-- Advanced Metrics -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalpavruksha&theme=tokyonight" width="100%"/>
@@ -320,25 +281,6 @@
 
 
 <!-- WakaTime Coding Activity - Fixed integration -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00D8FF&center=true&vCenter=true&lines=⏰+WEEKLY+CODING+STATS+⏰" alt="WakaTime Title"/>
-</h2>
-
-<div align="center">
-  <!-- WakaTime Stats will be automatically updated by GitHub Actions -->
-  <!-- Alternative: GitHub Readme Stats with WakaTime -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpavruksha&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
-  
-  <!-- Backup: Simple WakaTime Display -->
-  <img src="https://wakatime.com/share/@Kalpavruksha/7c8c8c8c-8c8c-8c8c-8c8c-8c8c8c8c8c8c.svg" alt="WakaTime Backup"/>
-  
-  <!-- Fallback: WakaTime Placeholder -->
-  <img src="https://wakatime.com/share/@Kalpavruksha/latest.svg" alt="WakaTime Fallback" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"/>
-  <div style="display: none;">WakaTime stats will appear here when configured properly</div>
-</div>
-
----
-
 <!-- GitHub Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -347,13 +289,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-<!-- GitHub Activity Section -->
-<h2 align="center">🔥 Recent GitHub Activity</h2>
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#32083](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/32083) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-2. ❗ Opened issue [#32083](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/32083) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpavruksha&theme=algolia" alt="GitHub Streak" />
@@ -425,9 +360,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/kalpavruksha">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
+
   <a href="https://ko-fi.com/kalpavruksha">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
