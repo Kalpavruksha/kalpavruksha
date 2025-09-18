@@ -526,19 +526,3 @@
 <div align="center">
   <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thanks%20for%20Visiting!%20Let's%20Build%20the%20Future%20Together%20🚀&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 </div>
-
----
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/Kalpavruksha">Kalpavruksha</a> with ❤️ • Built with passion, powered by ☕ and lots of 🧠</sub>
-  <br><br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</div>
-
-<!-- Hidden Analytics -->
-<img src="https://analytics.kalpavruksha.dev/api/track?event=profile_visit" width="1" height="1" style="visibility:hidden;" alt="Analytics"/>
-
-<!-- Auto-updating timestamp -->
-*Last updated: ![Auto Update](https://img.shields.io/badge/dynamic/json?color=blue&label=UTC&query=datetime&url=http%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEtc%2FUTC)*
