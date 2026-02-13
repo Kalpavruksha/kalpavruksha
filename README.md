@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kalpavruksha;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!&center=true&size=30&color=58a6ff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kalpavruksha;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+unique!&center=true&size=30&color=58a6ff">
 </h1>
 
 <div align="center">
@@ -11,22 +11,13 @@
   <img src="https://img.shields.io/github/followers/Kalpavruksha?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Kalpavruksha's+Digital+Universe+🌟;🤖+AI+%26+Machine+Learning+Engineer;🚀+Full+Stack+Developer|Dev+Ops+%26+Architect;🔬+Research+%26+Innovation+Enthusiast;🌍+Open+Source+Contributor;💡+Building+the+Future+with+Code;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
-</h1>
-
-
 <!-- Dynamic Typing Header -->
 
 
 <!-- Fallback Static Header -->
 <h2 align="center">
-  🤖 AI & Machine Learning Engineer | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
+  🤖 AI & Machine Learning  | 🚀 Full Stack Developer | 🔬 Research & Innovation Enthusiast
 </h2>
-
-
 
 <!-- Real-time Stats Bar -->
 <div align="center">
