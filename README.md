@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/🎓+Student+Developer-blue?style=for-the-badge" alt="Student Developer"/>
 </div>
 
-<!-- AI-Powered Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20understand%20both%20code%20and%20creativity&author=Kalpavruksha"/>
-</div>
-
-
-
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
