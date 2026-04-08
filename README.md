@@ -133,26 +133,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalpavruksha&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </div>
 
----
 
-<!-- Achievement Showcase -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FFEAA7&center=true&vCenter=true&lines=🏆+ACHIEVEMENT+SHOWCASE+🏆" alt="Achievements Title"/>
-</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalpavruksha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=7" />
-</div>
 
-<!-- Custom Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀%20Commits-2000+-brightgreen?style=for-the-badge&labelColor=000" alt="Commits"/>
-  <img src="https://img.shields.io/badge/🎯%20Projects-50+-blue?style=for-the-badge&labelColor=000" alt="Projects"/>
-  <img src="https://img.shields.io/badge/⭐%20Stars%20Earned-500+-yellow?style=for-the-badge&labelColor=000" alt="Stars"/>
-  <img src="https://img.shields.io/badge/🔥%20Max%20Streak-100%20days-orange?style=for-the-badge&labelColor=000" alt="Streak"/>
-</div>
-
----
 
 <!-- AI-Generated Snake - Fixed URL -->
 <h2 align="center">
@@ -193,21 +176,6 @@
 - 🖇 LinkedIn: [Your LinkedIn](https://linkedin.com/in/)  
 
 
----
-
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalpavruksha/Kalpavruksha/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 
 ## 🌟 Fun Facts & Trivia
