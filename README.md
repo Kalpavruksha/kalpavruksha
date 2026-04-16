@@ -1,10 +1,3 @@
-<div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Kalpavruksha's%20Profile&height=300&section=header&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=50&descAlign=50">
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Kalpavruksha;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+unique!&center=true&size=30&color=58a6ff">
-</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalpavruksha&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
@@ -31,14 +24,14 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **Computer Science Student** passionate about technology
-- 🔭 I'm currently working on **[Healthcare AI Based E-commerce Platform]**
+- 🔭 I'm currently working on **[Healthcare AI Based E-commerce Platfor]**
 - 🌱 I'm currently learning **[React Native, GraphQL, Advanced ML]**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Apps**
 - 🤔 I'm looking for help with **[Machine Learning Integration & AI Deployment]**
 - 💬 Ask me about **React, Node.js, Python, JavaScript, MongoDB, AI/ML**
 - 📫 How to reach me: **kalpavruksha.g.dev@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Hobbies : **I can play guitar, swim, practice martial arts, and code!**
+- ⚡ Hobbies : **I can play guitar, swim, trained martial arts, and code!**
 
 <br clear="both"/>
 
