@@ -25,7 +25,7 @@
 
 - 🎓 I'm a **Computer Science Student** passionate about technology
 - 🔭 I'm currently working on **[Portfolio Builder With Hosting Services]**
-- 🌱 I'm currently learning **[React Native, GraphQL, Advanced ML]**
+- 🌱 I'm currently learning **[typescript, GraphQL, Advanced ML,Devops]**
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Web Apps**
 - 🤔 I'm looking for help with **[Machine Learning Integration & AI Deployment]**
 - 💬 Ask me about **React, Node.js, Python, JavaScript, MongoDB, AI/ML**
