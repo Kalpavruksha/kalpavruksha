@@ -98,10 +98,9 @@ const Kalpavruksha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalpavruksha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpavruksha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 </div>
 
 <div align="center">
