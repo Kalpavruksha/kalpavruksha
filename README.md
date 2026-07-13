@@ -159,7 +159,7 @@ ask_me_about:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kalpavruksha-181717?style=for-the-badge&logo=github)](https://github.com/Kalpavruksha)
 [![Email](https://img.shields.io/badge/Email-kalpavruksha.g.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalpavruksha.g.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalpavruksha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalpavruksha-g-4a3151267/)
 
 </div>
 
