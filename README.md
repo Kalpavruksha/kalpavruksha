@@ -29,7 +29,7 @@
 const Kalpavruksha = {
   name      : "Kalpavruksha G",
   role      : "Full Stack Dev • AI Builder • 3D Web Craftsman",
-  education : "B.E. CSE — VTU (VIII Semester)",
+  education : "B.E. CSE — VTU 2026' ",
   location  : "Karnataka, India 🇮🇳",
   email     : "kalpavruksha.g.dev@gmail.com",
 
