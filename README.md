@@ -1,5 +1,5 @@
 <div align="center">
-  
+   
 <!-- TOP BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kalpavruksha%20G&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descColor=8b949e&descSize=18"/>
 
